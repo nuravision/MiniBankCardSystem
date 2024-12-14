@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\bin\Debug\net8.0\BankCardSystem.exe
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\bin\Debug\net8.0\BankCardSystem.deps.json
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\bin\Debug\net8.0\BankCardSystem.runtimeconfig.json
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\bin\Debug\net8.0\BankCardSystem.dll
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\bin\Debug\net8.0\BankCardSystem.pdb
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\BankCardSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\BankCardSystem.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\BankCardSystem.AssemblyInfo.cs
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\BankCardSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\BankCardSystem.dll
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\refint\BankCardSystem.dll
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\BankCardSystem.pdb
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\BankCardSystem.genruntimeconfig.cache
+C:\Users\hp\source\repos\BankCardSystem\BankCardSystem\obj\Debug\net8.0\ref\BankCardSystem.dll

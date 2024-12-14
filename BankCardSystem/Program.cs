@@ -1,0 +1,10 @@
+﻿using BankCardSystem;
+BankCard bankCard = new BankCard("Nurana", "Nurana Azerbaijan International Bank", "1234567890123456","1925","06.2023");
+Client client1 = new Client("Nurane", "Ismayilzade", 22, 2500, bankCard);
+//Console.WriteLine(client1);
+Client client2 = new Client("Alisa", "Ismayilzade", 22, 2500, bankCard);
+//Console.WriteLine(client2);
+Bank bank=new Bank(new Client[]{client1, client2});
+//bank.showCardBalance(bankCard);
+Console.WriteLine(bankCard);
+//bank.ShowAllClientsInformation();
